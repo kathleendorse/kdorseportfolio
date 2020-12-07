@@ -1,0 +1,233 @@
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+  }
+
+  .portfolio-item {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    max-width: 530px;
+  
+    margin: 0 auto;
+  }
+
+  .img-thumbnail {
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+  }
+
+  caption {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    color: #6c757d;
+    text-align: center;
+    caption-side: bottom;
+  }
+
+
+  .portfolio-item .caption {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(33, 37, 41, 0.2);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    /* z-index: 2; */
+    margin: 0 auto;
+  }
+  
+  .portfolio-item .caption .caption-content {
+    margin: auto 2rem 2rem;
+    color:black;
+    background:#c2af1d; 
+  }
+  
+  .portfolio-item .caption .caption-content .h2 h2{
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: black;
+  }
+  
+
+  
+  .portfolio-item .caption .caption-content p {
+    font-weight: 300;
+    font-size: 1.2rem;
+  }
+
+  @media (min-width: 992px) {
+    .portfolio-item {
+      /* max-width: none; */
+      margin: 0;
+      min-width:100%;
+    }
+    .portfolio-item .caption {
+      transition: background-color 0.7s, -webkit-clip-path 0.25s ease-out;
+      transition: clip-path 0.25s ease-out, background-color 0.7s;
+      transition: clip-path 0.25s ease-out, background-color 0.7s, -webkit-clip-path 0.25s ease-out;
+      -webkit-clip-path: inset(0px);
+      clip-path: inset(0px);
+    }
+    .portfolio-item .caption .caption-content {
+      transition: opacity 0.25s;
+      margin-left: 5rem;
+      margin-right: 5rem;
+      margin-bottom: 5rem;
+      width: 100%
+      }
+    .portfolio-item img {
+      transition: -webkit-clip-path 0.25s ease-out;
+      transition: clip-path 0.25s ease-out;
+      transition: clip-path 0.25s ease-out, -webkit-clip-path 0.25s ease-out;
+      -webkit-clip-path: inset(-1px);
+      clip-path: inset(-1px);
+    }
+    .portfolio-item:hover img {
+      -webkit-clip-path: inset(2rem);
+      clip-path: inset(2rem);
+    }
+    .portfolio-item:hover .caption {
+      background-color:#c2af1d;
+      -webkit-clip-path: inset(2rem);
+      clip-path: inset(2rem);
+    }
+  }
+
+
+
+/* 
+h4, .h4 {
+    font-size: 1.5rem;
+  } */
+
+  h1, h2, h3, h4, h5, h6,
+  .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.5rem;
+    font-family: 'Alata', sans-serif;;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #343a40;
+  }
+
+
+
+  .text-center {
+    text-align: center !important;
+  }
+/* .card{
+    width:100%;
+}
+
+.card-img-top{
+    width: 100%;
+} */
+/* 
+
+    <img className="card-img-top" src="..." alt="Card image cap"></img>
+    <div className="card-body">
+        <h5 className="card-title">Card title</h5>
+        <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" className="btn btn-primary">Go somewhere</a>
+    </div>
+
+
+
+
+
+
+<div className="card">
+    <img className="card-img-top" src="..." alt="Card image cap">
+    <div className="card-body">
+        <h5 className="card-title">Card title</h5>
+        <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" className="btn btn-primary">Go somewhere</a>
+    </div>
+
+
+</div>
+
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <div className="col-lg-6">
+    <a className="portfolio-item" href="https://mysterious-dawn-88307.herokuapp.com/" target="blank">
+      <div className="caption">
+        <div className="caption-content text-center">
+          <div className="h4">Burgers</div>
+          <p className="mb-0">Add and Devour Burgers as you please. Powered by Handlebars and MySQL.</p>
+        </div>
+      </div>
+      <img src="https://res.cloudinary.com/katedorse/image/upload/c_scale,w_229/v1604272837/sqburger_r6wxm0.png" className="img-fluid img-thumbnail float-left" alt="Responsive image">
+    </a>
+    <a className="portfolio-item" href="https://serene-shore-05740.herokuapp.com/" target="blank">
+      <div className="caption">
+        <div className="caption-content text-center">
+          <div className="h4">Fitness Tracker</div>
+          <p className="mb-0">Create WorkOuts, Add Exercises and Track Your Stats. Powered by MongoDB.</p>
+        </div>
+      </div>
+      <img src="https://res.cloudinary.com/katedorse/image/upload/c_scale,w_229/v1604272837/sqworkout_wl6iqa.png" className="img-fluid img-thumbnail float-left" alt="Responsive image">
+    </a>
+</div> */
+
+
+
+
+/* -----------CURRENTLY SHOWN ON PAGE */
+/* <a className="portfolio-item" href="https://afternoon-cove-63476.herokuapp.com/" target="blank">
+<div className="caption">
+  <div className="caption-content text-center">
+    <div className="h4">Note Taker</div>
+    <p className="mb-0">Add, Edit and Delete Notes. Powered by Express.</p>
+  </div>
+</div>
+<img src="https://res.cloudinary.com/katedorse/image/upload/c_scale,w_901/v1604273122/sqnotetaker_w4wqau.png" className="img-fluid img-thumbnail float-left" alt="Responsive image">
+</a> */
+/* -------------------------------- */
+
+/* <a className="portfolio-item" href="https://nrouhanizdeh.github.io/Night-In-App/" target="blank">
+<div className="caption">
+  <div className="caption-content text-center">
+    <div className="h4">Night In</div>
+    <p className="mb-0">Curate the Perfect Night In From Drinks to Dinner and a Movie.</p>
+  </div>
+</div>
+<img src="https://res.cloudinary.com/katedorse/image/upload/c_scale,w_229/v1604272837/sqnightin_l79dwa.png" className="img-fluid img-thumbnail float-left" alt="Responsive image">
+</a>
+<a className="portfolio-item" href="https://kathleendorse.github.io/WeatherDashboard/" target="blank">
+<div className="caption">
+  <div className="caption-content text-center">
+    <div className="h4">Weather Dashboard</div>
+    <p className="mb-0">Search by Location for Current + 5 Day Weather Forecast.</p>
+  </div>
+</div>
+<img src="https://res.cloudinary.com/katedorse/image/upload/c_scale,w_229/v1604272837/sqweather_kcm2ha.png" className="img-fluid img-thumbnail float-left" alt="Responsive image">
+</a> */
