@@ -1,0 +1,11 @@
+body {
+    padding-top: 3.375rem;
+    color: #6c757d;
+  }
+  
+@media (min-width: 992px) {
+  body {
+    padding-top: 0;
+    padding-left: 17rem;
+  }
+}
