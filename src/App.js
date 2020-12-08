@@ -12,7 +12,7 @@ function App() {
       <div id="body">
         <Nav />
         <Switch>
-          <Route exact path="https://kathleendorse.github.io/ReactPortfolio/">
+          <Route exact path="/">
             <About />
           </Route>
           <Route exact path="/portfolio">
