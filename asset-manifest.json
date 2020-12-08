@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.5853b742.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.9b00585e.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.9b00585e.chunk.js.map",
-    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.825cfe92.js",
-    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.825cfe92.js.map",
-    "static/js/2.4db8bb97.chunk.js": "/ReactPortfolio/static/js/2.4db8bb97.chunk.js",
-    "static/js/2.4db8bb97.chunk.js.map": "/ReactPortfolio/static/js/2.4db8bb97.chunk.js.map",
-    "static/js/3.e137064f.chunk.js": "/ReactPortfolio/static/js/3.e137064f.chunk.js",
-    "static/js/3.e137064f.chunk.js.map": "/ReactPortfolio/static/js/3.e137064f.chunk.js.map",
-    "index.html": "/ReactPortfolio/index.html",
-    "static/css/main.5853b742.chunk.css.map": "/ReactPortfolio/static/css/main.5853b742.chunk.css.map",
-    "static/js/2.4db8bb97.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.4db8bb97.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/ReactPortfolio/static/media/geomanist-regular-webfont.e7124339.eot"
+    "main.css": "/kdorseportfolio/static/css/main.5e8bd80d.chunk.css",
+    "main.js": "/kdorseportfolio/static/js/main.65e9532b.chunk.js",
+    "main.js.map": "/kdorseportfolio/static/js/main.65e9532b.chunk.js.map",
+    "runtime-main.js": "/kdorseportfolio/static/js/runtime-main.ea28ae8c.js",
+    "runtime-main.js.map": "/kdorseportfolio/static/js/runtime-main.ea28ae8c.js.map",
+    "static/js/2.d4f2903c.chunk.js": "/kdorseportfolio/static/js/2.d4f2903c.chunk.js",
+    "static/js/2.d4f2903c.chunk.js.map": "/kdorseportfolio/static/js/2.d4f2903c.chunk.js.map",
+    "static/js/3.e137064f.chunk.js": "/kdorseportfolio/static/js/3.e137064f.chunk.js",
+    "static/js/3.e137064f.chunk.js.map": "/kdorseportfolio/static/js/3.e137064f.chunk.js.map",
+    "index.html": "/kdorseportfolio/index.html",
+    "static/css/main.5e8bd80d.chunk.css.map": "/kdorseportfolio/static/css/main.5e8bd80d.chunk.css.map",
+    "static/js/2.d4f2903c.chunk.js.LICENSE.txt": "/kdorseportfolio/static/js/2.d4f2903c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kdorseportfolio/static/media/geomanist-regular-webfont.e7124339.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.825cfe92.js",
-    "static/js/2.4db8bb97.chunk.js",
-    "static/css/main.5853b742.chunk.css",
-    "static/js/main.9b00585e.chunk.js"
+    "static/js/runtime-main.ea28ae8c.js",
+    "static/js/2.d4f2903c.chunk.js",
+    "static/css/main.5e8bd80d.chunk.css",
+    "static/js/main.65e9532b.chunk.js"
   ]
 }
