@@ -12,7 +12,7 @@ function App() {
       <div id="body">
         <Nav />
         <Switch>
-          <Route exact path={["/","/ReactPortfolio/"]}>
+          <Route exact path="/ReactPortfolio/">
             <About />
           </Route>
           <Route exact path="/portfolio">
