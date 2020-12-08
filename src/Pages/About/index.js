@@ -1,6 +1,6 @@
 import React from "react";
 import ContainerFluid from "../../Components/ContainerFluid";
-import "./style.css";
+// import "./style.css";
 
 function About(){
     return(

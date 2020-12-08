@@ -1,10 +1,10 @@
 import React from "react";
-import "./style.css";
+// import "./style.css";
 
 function Footer (){
     return (
         <footer>
-            <p>2020 Kate Dorse</p>
+            &#169; 2020 Kate Dorse
         </footer>
     );
 }

@@ -1,6 +1,6 @@
 import React from "react";
 import ContainerFluid from "../../Components/ContainerFluid";
-import "./style.css";
+// import "./style.css";
 import Project from "../../Components/Project";
 
 function Portfolio(){
@@ -19,13 +19,13 @@ function Portfolio(){
             id:"2",
             image:"https://res.cloudinary.com/katedorse/image/upload/v1607326886/burger_gqpuym.png",
              title:"Burger App",
-            desc:"Add and Devour Burgers as you please. Powered by Node Exporess, Handlebars and MySQL.",
+             desc:"Add and Devour Burgers as you please with Express, Handlebars and MySQL.",
             deploy:"https://mysterious-dawn-88307.herokuapp.com/",
             repo:"https://github.com/kathleendorse/burger"
         },
         {
             id:"3",
-            image:"https://res.cloudinary.com/katedorse/image/upload/v1607326886/fitnesstracker_cltgqr.png",
+            image:"https://res.cloudinary.com/katedorse/image/upload/v1607372512/fitnesstracker_t8lqbt.png",
             title:"Fitness Tracker",
             desc:"Create WorkOuts, Add Exercises and Track Your Stats. Powered by MongoDB.",
             deploy:"https://serene-shore-05740.herokuapp.com/",
@@ -33,7 +33,7 @@ function Portfolio(){
         },
         {
             id:"4",
-            image:"https://res.cloudinary.com/katedorse/image/upload/v1607326886/nightin_s0e2sn.png",
+            image:"https://res.cloudinary.com/katedorse/image/upload/v1607372600/nightin_wwmoti.png",
             title:"Night In",
             desc:"Curate the Perfect Night In From Drinks to Dinner and a Movie.",
             deploy:"https://nrouhanizdeh.github.io/Night-In-App/",
@@ -49,7 +49,7 @@ function Portfolio(){
         },
         {
             id:"6",
-            image:"https://res.cloudinary.com/katedorse/image/upload/v1607326886/userdirectory_weuqws.png",
+            image:"https://res.cloudinary.com/katedorse/image/upload/v1607372407/userdirectory_jfnohx.png",
             title:"Employee Directory",
             desc:"React App with with Search and Sort Features.",
             deploy:"https://kathleendorse.github.io/UserDirectory/",

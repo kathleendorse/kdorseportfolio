@@ -1,12 +1,12 @@
-.container-fluid, .container-xl, .container-lg, .container-md, .container-sm {
+/* .container-fluid, .container-xl, .container-lg, .container-md, .container-sm {
     width: 100%;
     padding-right: 0.75rem;
     padding-left: 0.75rem;
     margin-right: auto;
     margin-left: auto;
-  }
+  } */
 
-.p-0 {
+/* .p-0 {
     padding: 0 !important;
 }
 
@@ -44,30 +44,30 @@ main.resume-section {
   h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     margin-bottom: 0.5rem;
-  }
+  } */
   
-  h1, h2, h3, h4, h5, h6,
+  /* h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
   font-family: 'Alata', sans-serif;;
   font-weight: 700;
   line-height: 1.2;
   color: #343a40;
-}
+} */
 
-h1, .h1 {
+/* h1, .h1 {
     font-size: 6rem;
   }
 
   h1 {
     line-height: 1;
-  }
+  } */
 
-  .text-center {
+  /* .text-center {
     text-align: center !important;
-  }
+  } */
 
-  .mb-0,
+  /* .mb-0,
 .my-0 {
   margin-bottom: 0 !important;
-}
+} */

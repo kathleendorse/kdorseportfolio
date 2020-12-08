@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./style.css";
+ import "./style.css";
+
 
 function Nav (){
     return (
@@ -22,6 +23,11 @@ function Nav (){
                     <Link to="/portfolio" className="a nav-link">
                         Portfolio
                     </Link>                
+                    </li>
+                    <li className="a nav-item js-scroll-trigger">
+                    <a href="#" rel="noreferrer noopener" target="_blank" className="a nav-link">
+                        Resume
+                    </a>                
                     </li>
 
                 </ul>
