@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.5853b742.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.d8b27813.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.d8b27813.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.825cfe92.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.825cfe92.js.map",
+    "static/js/2.4db8bb97.chunk.js": "/ReactPortfolio/static/js/2.4db8bb97.chunk.js",
+    "static/js/2.4db8bb97.chunk.js.map": "/ReactPortfolio/static/js/2.4db8bb97.chunk.js.map",
+    "static/js/3.e137064f.chunk.js": "/ReactPortfolio/static/js/3.e137064f.chunk.js",
+    "static/js/3.e137064f.chunk.js.map": "/ReactPortfolio/static/js/3.e137064f.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/main.5853b742.chunk.css.map": "/ReactPortfolio/static/css/main.5853b742.chunk.css.map",
+    "static/js/2.4db8bb97.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.4db8bb97.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ReactPortfolio/static/media/geomanist-regular-webfont.e7124339.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.825cfe92.js",
+    "static/js/2.4db8bb97.chunk.js",
+    "static/css/main.5853b742.chunk.css",
+    "static/js/main.d8b27813.chunk.js"
+  ]
+}
