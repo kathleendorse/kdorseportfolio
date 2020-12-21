@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kdorseportfolio/static/css/main.5e8bd80d.chunk.css",
-    "main.js": "/kdorseportfolio/static/js/main.1c2c88ea.chunk.js",
-    "main.js.map": "/kdorseportfolio/static/js/main.1c2c88ea.chunk.js.map",
-    "runtime-main.js": "/kdorseportfolio/static/js/runtime-main.ea28ae8c.js",
-    "runtime-main.js.map": "/kdorseportfolio/static/js/runtime-main.ea28ae8c.js.map",
-    "static/js/2.d4f2903c.chunk.js": "/kdorseportfolio/static/js/2.d4f2903c.chunk.js",
-    "static/js/2.d4f2903c.chunk.js.map": "/kdorseportfolio/static/js/2.d4f2903c.chunk.js.map",
-    "static/js/3.e137064f.chunk.js": "/kdorseportfolio/static/js/3.e137064f.chunk.js",
-    "static/js/3.e137064f.chunk.js.map": "/kdorseportfolio/static/js/3.e137064f.chunk.js.map",
-    "index.html": "/kdorseportfolio/index.html",
-    "static/css/main.5e8bd80d.chunk.css.map": "/kdorseportfolio/static/css/main.5e8bd80d.chunk.css.map",
-    "static/js/2.d4f2903c.chunk.js.LICENSE.txt": "/kdorseportfolio/static/js/2.d4f2903c.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/kdorseportfolio/static/media/geomanist-regular-webfont.e7124339.eot"
+    "main.css": "/static/css/main.c019b39c.chunk.css",
+    "main.js": "/static/js/main.1c2c88ea.chunk.js",
+    "main.js.map": "/static/js/main.1c2c88ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb479b7a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb479b7a.js.map",
+    "static/js/2.d4f2903c.chunk.js": "/static/js/2.d4f2903c.chunk.js",
+    "static/js/2.d4f2903c.chunk.js.map": "/static/js/2.d4f2903c.chunk.js.map",
+    "static/js/3.e137064f.chunk.js": "/static/js/3.e137064f.chunk.js",
+    "static/js/3.e137064f.chunk.js.map": "/static/js/3.e137064f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c019b39c.chunk.css.map": "/static/css/main.c019b39c.chunk.css.map",
+    "static/js/2.d4f2903c.chunk.js.LICENSE.txt": "/static/js/2.d4f2903c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/geomanist-regular-webfont.e7124339.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea28ae8c.js",
+    "static/js/runtime-main.fb479b7a.js",
     "static/js/2.d4f2903c.chunk.js",
-    "static/css/main.5e8bd80d.chunk.css",
+    "static/css/main.c019b39c.chunk.css",
     "static/js/main.1c2c88ea.chunk.js"
   ]
 }
