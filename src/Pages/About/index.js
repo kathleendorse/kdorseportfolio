@@ -21,8 +21,11 @@ function About(){
                 <p>Full Stack Web Developer based in Chicago, Illinois.</p>
                 <p>Certificate from North Western University's School of Professional Studies.</p>
                 <br></br>
+                <p>I am a self-motivated problem-solver who went into my full stack program with almost no technical background.  I know that I have so much to learn but for the first time in my life, that isn’t scary, it’s exciting!  I love that the culture of web development is inherently grounded in learning, process improvement and collaboration. There’s always a new package or language to learn, a new challenge posed by your current project and ways to improve code you’ve already written.  I don’t think you can truly be successful at it unless you’re passionate about your work.    
+                </p>
+                <br></br>
                 <p>Proficiencies:</p>
-                <p> Bootstrap . CSS . ES6 . Express . HTML . Javascript . Jquery . MongoDB . Mysql . Node . React .</p>
+                <p>Axios . Bootstrap . CSS . ES6 . Express . Handlebars . HTML . Javascript . Jquery . MongoDB . Mysql . Node.js . React .</p>
                 <br></br>
             </div>
             <div className="social-icons text-center">
