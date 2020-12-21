@@ -11,7 +11,7 @@ function Portfolio(){
             id:"1",
             image:"https://res.cloudinary.com/katedorse/image/upload/v1607326886/notetaker_ghez3a.png",
             title:"Note Taker",
-            desc:"Add, Edit and Delete Notes Online. Powered by Express.",
+            desc:"Online Application allows you to Add, Edit and Delete Your Notes. Powered by Express.",
             deploy:"https://afternoon-cove-63476.herokuapp.com/",
             repo:"https://github.com/kathleendorse/NoteTaker"
         },
@@ -35,7 +35,7 @@ function Portfolio(){
             id:"4",
             image:"https://res.cloudinary.com/katedorse/image/upload/v1607372600/nightin_wwmoti.png",
             title:"Night In",
-            desc:"Curate the Perfect Night In From Drinks to Dinner and a Movie.",
+            desc:"Curate the Perfect Night In From Drinks to Dinner and a Movie with recommendations from the Night In Experts.",
             deploy:"https://nrouhanizdeh.github.io/Night-In-App/",
             repo:"https://github.com/nrouhanizdeh/Night-In-App"
         },
@@ -43,7 +43,7 @@ function Portfolio(){
             id:"5",
             image:"https://res.cloudinary.com/katedorse/image/upload/v1607326886/weatherdashboard_aflujq.png",
             title:"Weather Dashboard",
-            desc:"Search by Location for Current + 5 Day Weather Forecast.",
+            desc:"Search for Current Weather + 5 Day Weather Forecast by Location and view recent searches.",
             deploy:"https://kathleendorse.github.io/WeatherDashboard/",
             repo:"https://github.com/kathleendorse/WeatherDashboard"
         },
@@ -51,7 +51,7 @@ function Portfolio(){
             id:"6",
             image:"https://res.cloudinary.com/katedorse/image/upload/v1607372407/userdirectory_jfnohx.png",
             title:"Employee Directory",
-            desc:"React App with with Search and Sort Features.",
+            desc:"React Employee Directory with additional Search and Sort Features for names.",
             deploy:"https://kathleendorse.github.io/UserDirectory/",
             repo:"https://github.com/kathleendorse/UserDirectory"
         },
