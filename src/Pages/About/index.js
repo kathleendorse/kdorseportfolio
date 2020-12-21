@@ -25,7 +25,7 @@ function About(){
                 </p>
                 <br></br>
                 <p>Proficiencies:</p>
-                <p> Bootstrap . CSS . ES6 . Express . HTML . Javascript . Jquery . MongoDB . Mysql . Node . React .</p>
+                <p>Axios . Bootstrap . CSS . ES6 . Express . Handlebars . HTML . Javascript . Jquery . MongoDB . Mysql . Node.js . React .</p>
                 <br></br>
             </div>
             <div className="social-icons text-center">
