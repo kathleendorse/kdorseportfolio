@@ -15,16 +15,15 @@ function About(){
                 <a href="tel:7024087200" >702.408.7200</a>
             </div>
             <div>
-                <img id="me" src="https://res.cloudinary.com/katedorse/image/upload/r_30/v1604022101/me_taxlfu.jpg" className="float-left img-fluid pull-left mr-4 me" alt="Kate Dorse"></img>
+                <img id="me" src="https://res.cloudinary.com/katedorse/image/upload/b_rgb:dceff5,r_30/v1608595207/profile_pic_jrfmo0.jpg" className="float-left img-fluid pull-left mr-4 me rounded" alt="Kate Dorse"></img>
                 <br></br>
                 <br></br>
-                <p>Full Stack Web Developer based in Chicago, Illinois.</p>
-                <p>Certificate from North Western University's School of Professional Studies.</p>
-                <p>I am a self-motivated problem-solver who went into my full stack program with almost no technical background.  I know that I have so much to learn but for the first time in my life, that isn’t scary, it’s exciting!  I love that the culture of web development is inherently grounded in learning, process improvement and collaboration. There’s always a new package or language to learn, a new challenge posed by your current project and ways to improve code you’ve already written.  I don’t think you can truly be successful at it unless you’re passionate about your work.    
+                <p>Full Stack Web Developer based in Chicago, Illinois with a Certificate from North Western University's School of Professional Studies.</p>
+                <p>I am a self-motivated problem-solver who entered into my full stack program with almost no technical background exited as a top student.  Being challenged and learning each day is what I find most exciting about my chosen career path.  I love that the culture of web development is inherently grounded in lifelong learning, process improvement and collaboration. There’s always a new package or language to learn, a new challenge posed by your current project and ways to improve code you’ve already written.  I don’t think you can truly be successful at it unless you’re passionate about your work.    
                 </p>
                 <p>Communication and collaboration are two of my strengths. I can effectively convey technical aspects to non-technical groups and will adapt to changing situation to take on whatever is necessary to get the job done.  I am highly organized and place high emphasis on balancing design and functionality.</p>
                 <br></br>
-                <p>Proficiencies:</p>
+                <p>Skillset Includes:</p>
                 <p>Axios . Bootstrap . CSS . ES6 . Express . Handlebars.js . HTML . Javascript . Jquery . MongoDB . Mysql . Node.js . React .</p>
                 <br></br>
             </div>
